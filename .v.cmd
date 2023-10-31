@@ -1,1 +1,1 @@
-start gvim push.bat 
+start gvim ~/.netrc 
